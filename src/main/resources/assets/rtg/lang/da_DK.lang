@@ -1,4 +1,4 @@
-generator.RTG=Realistisk
+generator.RTG=Realistisk (EKSTREMT USTABIL)
 
 warning.rtgStartup1=Realistisk Terrain Generation bruger et tilpasset verden type.
 warning.rtgStartup2=Hvis du vil have realistiske terræn, holde klikke på knappen World Type
