@@ -1,4 +1,4 @@
-generator.RTG=Realistic
+generator.RTG=Realistic (EXTREMELY UNSTABLE)
 
 warning.rtgStartup1=Realistic Terrain Generation uses a custom world type.
 warning.rtgStartup2=If you want realistic terrain, keep clicking the 'World Type' button
