@@ -4,5 +4,5 @@ warning.rtgStartup1=Реалистичная Рельефный поколени
 warning.rtgStartup2=Если вы хотите реалистичный рельеф местности, продолжайте нажимать кнопку World Type
 warning.rtgStartup3=в разделе Дополнительные параметры мира, пока не появится «Реалистичный».
 warning.rtgStartup4=Мир типа может использоваться на серверах за счет изменения уровня 'типа' в
-warning.rtgStartup5=server.properties к "РТГ" (без кавычек).
+warning.rtgStartup5=server.properties к "RTG" (без кавычек).
 warning.rtgStartup6=Это сообщение будет отображаться только один раз.
