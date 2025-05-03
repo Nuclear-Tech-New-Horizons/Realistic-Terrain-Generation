@@ -1,4 +1,4 @@
-generator.RTG=Realistico
+generator.RTG=Realistico (ESTREMAMENTE INSTABILE)
 
 warning.rtgStartup1=Realistico Terreno generazione utilizza un tipo di mondo personalizzato.
 warning.rtgStartup2=Se si desidera terreno realistico, continuare a fare clic sul pulsante 'Tipo Mondiale'
